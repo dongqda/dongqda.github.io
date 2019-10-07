@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Theme
-tags: [about]
+tags: about
 date: 2019-10-06
 comments: false
 ---
