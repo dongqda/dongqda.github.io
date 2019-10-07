@@ -1,11 +1,25 @@
 ---
 layout: page
 title: About the Theme
-tags: about
-date: 2019-10-06
+tags: [about]
+date: 2016-03-21
 comments: false
 ---
-    
-<i class="fas fa-envelope-square"></i>
+
+<img src="http://dy.gnch.or.kr/img/no-image.jpg" style="border-radius:150px;">
+
+<hr>
+
+<i class="fas fa-envelope-square">name : </i>donggyu Lee
+
+<i class="fas fa-phone">phone : </i> contact me by [email](dglee012@gmail.com)
+
+<i class="fas fa-envelope-square">email :</i> dglee012@gmail.com
+
+<i class="fab fa-github">github : </i> gihbub.com/dongqda
+
+
+
+
 
 
