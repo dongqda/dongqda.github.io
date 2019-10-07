@@ -10,13 +10,13 @@ comments: false
 
 <hr>
 
-<i class="far fa-id-card"></i> name : 이동규(donggyu Lee)
+<i class="far fa-id-card"></i> 이동규(donggyu Lee)
 
-<i class="fas fa-phone"></i> phone : contact me by email
+<i class="fas fa-phone"></i> contact me by email
 
-<i class="fas fa-envelope-square"></i> email : dglee012@gmail.com
+<i class="fas fa-envelope-square"></i> dglee012@gmail.com
 
-<i class="fab fa-github"></i> github : [@dongqda](https://github.com/dongqda)
+<i class="fab fa-github"></i> [@dongqda](https://github.com/dongqda)
 
 
 
